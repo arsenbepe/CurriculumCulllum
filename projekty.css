@@ -1,0 +1,11 @@
+h1 {
+  color: white;
+  padding: 0rem clamp(1rem, 2vw, 3rem);
+  border-radius: clamp(0.4rem, 0.75vw, 1rem);
+}
+
+h1:hover {
+  background-color: var(--kolor3);
+  color: var(--kolor1);
+  transition: all 1s ease;
+}
