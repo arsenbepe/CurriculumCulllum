@@ -1,8 +1,10 @@
 .przyciski {
+  height: 30vh;
   display: flex;
 }
 
 header {
+  height: 25vh;
   color: var(--kolor2);
   font-size: 28px;
 }
